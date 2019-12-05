@@ -1,0 +1,10 @@
+apiVersion: customer.github.io/v1alpha1
+kind: Customer
+metadata:
+  name: customer-api
+spec:
+  # Add fields here
+  size: 3
+firstName: Abhishek
+lastName: Koserwal
+email: ak..@redhat.com
